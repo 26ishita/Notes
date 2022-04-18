@@ -1,0 +1,1 @@
+console.log("welcome to notes app. this js page")
